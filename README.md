@@ -9,7 +9,7 @@
 > Press the pause button on the top right of the screen to open the pause menu.
   Here you can change the settings for different balls, bats and pitches.
 
-[Settings]
+#[Settings]
 
 Cork Ball - Standard ball
 Tennis Ball - Has more bounce than normal ball
